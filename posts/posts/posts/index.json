@@ -1,0 +1,26 @@
+[
+  {
+    "id": "2026-11-05-update-1",
+    "title": "আজকের গাজা",
+    "category": "আপডেট",
+    "date": "2026-11-05",
+    "file": "posts/2026-11-05-update-1.md",
+    "image": ""
+  },
+  {
+    "id": "2026-11-05-golpo-1",
+    "title": "গল্প",
+    "category": "গল্প",
+    "date": "2026-11-05",
+    "file": "posts/2026-11-05-golpo-1.md",
+    "image": ""
+  },
+  {
+    "id": "2026-11-05-itihas-1",
+    "title": "ইতিহাস",
+    "category": "ইতিহাস",
+    "date": "2026-11-05",
+    "file": "posts/2026-11-05-itihas-1.md",
+    "image": ""
+  }
+]
